@@ -32,7 +32,7 @@
 ## 🚀 Быстрый запуск
 
 ### Windows
-1. Скачайте [`installing_drivers_os.bat`](windows/installing_drivers_os.bat)
+1. Скачайте [`installing_drivers_os.bat`](DriverOS_Win)
 2. Нажмите правой кнопкой → **"Запуск от имени администратора"**
 3. Следуйте инструкциям в меню
 
