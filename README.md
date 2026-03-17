@@ -37,7 +37,7 @@
 3. Следуйте инструкциям в меню
 
 ### Linux
-1. Скачайте [`installing_drivers_os.sh`](linux/installing_drivers_os.sh)
+1. Скачайте [`installing_drivers_os.sh`](DriverOS)
 2. Сделайте файл исполняемым:
    ```bash
    chmod +x installing_drivers_os.sh
